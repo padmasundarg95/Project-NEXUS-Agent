@@ -1,0 +1,4 @@
+google-generativeai
+beautifulsoup4
+python-docx
+requests
