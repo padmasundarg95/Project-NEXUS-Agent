@@ -45,42 +45,19 @@ Intelligent Document UI/UX: Applied negative space management and global Arial s
 Automated Sanitization: Built filters to strip markdown syntax and remove "noise" (lines <3 characters), ensuring a clean professional aesthetic.
 Secure SMTP Orchestration: Architected a delivery layer using Base64 encoding and STARTTLS encryption (The "Armored Truck") for secure, autonomous dispatch of the final .docx report.
 Handshake Flow: Server → Login → Send → Quit (proper TCP lifecycle)
-Metric
-Value
-Impact
-Blogs Processed
-63
-Full portfolio coverage
-AI Model
-Gemini 3.0 27B
--
-Processing Pipeline
-Fully Automated
-0 manual touchpoints
-Efficiency Gain
-~20 Hours → <25 Mins
-Automated Latency)
-Data Liquidity
-100% of dark data to a structured knowledge base
-Converted legacy archives into a searchable knowledge base
-Failure Recovery
-Exponential Backoff
-Zero failures via robust error-handling protocols
-Document Output
-Single .docx
-Easy for reference
+## 📊 Performance & Impact Metrics
 
+| Metric | Value | Impact |
+| :--- | :--- | :--- |
+| **Blogs Processed** | 63 | Full portfolio coverage |
+| **AI Model** | Gemini 3.0 27B | Advanced semantic reasoning |
+| **Processing Pipeline** | Fully Automated | 0 manual touchpoints |
+| **Efficiency Gain** | ~20 Hours → <25 Mins | 99% reduction in manual audit latency |
+| **Data Liquidity** | 100% | Converted "Dark Data" to structured knowledge |
+| **Failure Recovery** | Exponential Backoff | Zero failures via robust error-handling |
+| **Document Output** | Single .docx | High-fidelity, executive-ready reference |
+| **Scalability** | Platform Agnostic | Capable of enterprise-level documentation pivots |
 
-
-
-
-
-Scalable
-
-
-
-Platform Agnostic
-Capable of being repointed from blogs to corporate/other documentation with minimal configuration changes.
 
 Future (Phase 2) Roadmap (RAG + Analytics)
 And the journey doesn't end here. I am currently architecting the next evolution of NEXUS, focusing on long-term memory and deep visualization:
@@ -90,5 +67,4 @@ Implementing Vector Embeddings and semantic similarity search to allow conversat
 Growth Vector Trend: Time-series line chart of Critic Ratings and Sentiment.
 Genre Distribution: Content diversity mapping via pie/donut charts.
 The "Superpower" Heatmap: A Treemap visualization of Transferable Skills to demonstrate professional skill mapping.
-
 
