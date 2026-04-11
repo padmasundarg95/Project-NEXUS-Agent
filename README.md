@@ -45,7 +45,7 @@ Project NEXUS is designed as a modular, multi-stage agentic system that follows 
 * **Output:** Structured JSON containing blog metadata and raw content.
 
 #### **Layer 2: AI Reasoning & Cognitive Synthesis**
-* **Agentic AI Reasoning:** Developed a **"Theme Curator"** persona using **Gemini 3.0 27B** to enforce strict schema adherence across 60+ data points.
+* **Agentic AI Reasoning:** Developed a **"Theme Curator"** persona using **Gemini 3.0 27B** to enforce strict schema adherence across 60+ unstructured narratives, extracting 500+ structured data points.
 * **8-Label Analytical Framework:** Every blog is audited for *Genre, Creative Strength, Transferable Business Skills, Sentiment, Critic Rating (1-5), and Grammar.*
 * **Resilience Engineering:** Built a custom **Retry & Exponential Backoff** mechanism to handle API Rate Limits (HTTP 429), ensuring 100% pipeline uptime.
 
